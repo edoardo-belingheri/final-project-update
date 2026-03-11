@@ -68,7 +68,7 @@ Gli insight sono disponibili nel notebook `c)_eda/eda.ipynb`.
 
 ---
 
-## 📊 Test d’Ipotesi e Analisi di Regressione
+## 🧪 Test d’Ipotesi e Analisi di Regressione
 
 Nel progetto è stata inclusa una sezione dedicata all’analisi statistica, con l’obiettivo di valutare in modo rigoroso le differenze di performance tra mercati (Giapponese e Coreano) e supportare decisioni di business basate sui dati.  
 L’analisi comprende un test d’ipotesi non parametrico e un modello di regressione, utilizzati per verificare la significatività delle differenze osservate.
@@ -76,5 +76,19 @@ L’analisi comprende un test d’ipotesi non parametrico e un modello di regres
 metodologia, codice, visualizzazioni e interpretazione — è disponibile nel notebook dedicato:
 
 `d)_test_statistici/ipotesi_e_regressione.ipynb`
+
+---
+
+## 📊 Dashboard in Power BI
+
+La rivisitazione della dashboard finale include sempre:
+
+- KPI principali (profit, conversion rate, revenue)
+- segmentazioni per età, genere e comportamento utente 
+- analisi per Paese e canale  
+- performance dei prodotti  
+- stato dell’inventario e caratteristiche dei distribution centers  
+ 
+Il file `dashboard.pbix` è disponibile nella cartella `e)_dashboard/`.
 
 ---

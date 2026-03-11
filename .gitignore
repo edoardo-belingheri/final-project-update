@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# --- BigQuery Credentials ---
+# Ignora l'intera cartella delle credenziali
+credenziali_bigquery/
+
+# Ignora il file specifico delle credenziali
+credenziali_bigquery.json
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Output / Cache ---
+*.log
+*.tmp
