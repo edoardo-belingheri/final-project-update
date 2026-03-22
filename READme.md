@@ -92,3 +92,15 @@ La rivisitazione della dashboard finale include sempre:
 Il file `dashboard.pbix` è disponibile nella cartella `e)_dashboard/`.
 
 ---
+
+## 🎤 Presentazione & Data Storytelling
+
+Per accompagnare l’analisi tecnica è stata realizzata una **presentazione dedicata ai principali insight**, con l’obiettivo di comunicare i risultati in modo chiaro, sintetico e orientato alle decisioni.
+
+La presentazione segue i principi fondamentali del **data storytelling**:
+
+- **Contesto prima dei numeri** — ogni insight è introdotto dal perché è rilevante per il business  
+- **Messaggi chiave evidenziati** — ogni slide contiene un’unica idea centrale, supportata dai dati  
+- **Visual puliti e leggibili** — grafici essenziali, colori coerenti e gerarchie visive chiare    
+
+La presentazione è disponibile nella cartella `h)_presentazione/`.
