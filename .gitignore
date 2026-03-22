@@ -9,10 +9,7 @@ env/
 venv/
 
 # --- BigQuery Credentials ---
-# Ignora l'intera cartella delle credenziali
 credenziali_bigquery/
-
-# Ignora il file specifico delle credenziali
 credenziali_bigquery.json
 
 # --- IDE / Editor ---
@@ -26,3 +23,8 @@ Thumbs.db
 # --- Output / Cache ---
 *.log
 *.tmp
+
+# --- Excel / File di lavoro ---
+Excel_prep_grafici/
+*.xlsx
+*.xls
